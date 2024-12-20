@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Learning DevOps with Git"
+    return "Learning DevOps with from Git"
 
 
 if __name__ == "__main__":
